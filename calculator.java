@@ -60,7 +60,7 @@ public class calculator
                      break;
             }
 
-			System.out.print("\n---------------------------------------\n");
+            System.out.print("\n---------------------------------------\n");
 
         } while(choice != 5);
     }
